@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper it accompanies."
+title: "earned-influence: a minimal illustrative simulation of contribution-weighted voting"
+authors:
+  - family-names: Razo
+    given-names: Luis
+    affiliation: EISM
+license: MIT
+repository-code: "https://github.com/eism-science/earned-influence"
+preferred-citation:
+  type: conference-paper
+  title: "Earned Influence as a Contribution-Based Basis for Vote-Weighting: Normative and Computational Questions"
+  authors:
+    - family-names: Razo
+      given-names: Luis
+      affiliation: EISM
+  conference:
+    name: "Augmented Democracies workshop, IJCAI-ECAI 2026"
+  year: 2026
